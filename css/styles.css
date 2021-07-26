@@ -1,0 +1,96 @@
+body {
+    background: #F6F8FC;;
+}
+
+header {
+    position: absolute;
+    align-items: center;
+    width: 1306px;
+    height: 60px;
+    left: 66px;
+    top: 41px;
+}
+
+#logo-lucas {
+    color: #004157;
+    font-family: 'Roboto';
+    font-size: 48px;
+    font-weight: 900;
+}
+
+nav {
+    text-align: center;
+}
+
+
+a{
+    color: #161616;
+    font-family: 'Roboto';
+    font-weight: bold;
+    font-size: 36px;
+    padding-top: 10px;
+    text-decoration: none;
+}
+
+.btn-1 {
+    position: absolute;
+    width: 120px;
+    height: 50px;
+    left: 788px;
+    top: 46px;
+    
+
+    background: #E2EBFA;
+    opacity: 0.5;
+    border-radius: 12px 0px;
+    transition: opacity 200ms ease-in-out;
+}
+.btn-1:hover {
+    opacity: 1;
+}
+
+.btn-2 {
+    position: absolute;
+    width: 120px;
+    height: 50px;
+    left: 1021px;
+    top: 46px;
+
+    background: #E2EBFA;
+    opacity: 0.5;
+    border-radius: 12px 0px;
+    transition: opacity 200ms ease-in-out;
+}
+.btn-2:hover {
+    opacity: 1;
+}
+
+.btn-3 {
+    position: absolute;
+    width: 120px;
+    height: 50px;
+    left: 1252px;
+    top: 46px;
+
+    background: #E2EBFA;
+    opacity: 0.5;
+    border-radius: 12px 0px;
+    transition: opacity 200ms ease-in-out;
+}
+.btn-3:hover {
+    opacity: 1;
+}
+
+p {
+    color: #fff;
+    font-family: 'Roboto';
+    font-size: 48px;
+}
+
+#about {
+    position: absolute;
+    width: 632px;
+    height: 224px;
+    left: 129px;
+    top: 477px;
+}
