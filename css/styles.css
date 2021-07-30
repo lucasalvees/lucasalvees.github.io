@@ -128,16 +128,22 @@ header {
     right: 0;
 }
 
-p {
+.about-text {
     color: #fff;
     font-family: 'Roboto';
     font-size: 48px;
+    line-height: 150%;
+    letter-spacing: 0.3em;
 }
 
-#about {
+strong {
+    font-weight: bold;
+}
+
+.text {
     position: absolute;
     width: 632px;
-    height: 224px;
+    height: 504px;
     left: 129px;
-    top: 477px;
+    top: 250px;
 }
