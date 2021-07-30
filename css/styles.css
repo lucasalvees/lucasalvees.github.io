@@ -147,3 +147,33 @@ strong {
     left: 129px;
     top: 250px;
 }
+
+.footer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.social-media {
+    position: absolute;
+    width: 170px;
+    height: 50px;
+    left: 635px;
+    top: 939px;
+    background: #31FF9C;
+    border-radius: 12px;
+}
+
+.linkedin {
+    width: 45px;
+    height: 45px;
+}
+
+.github {
+    width: 45px;
+    height: 45px;
+}
+
+.instagram {
+    width: 45px;
+    height: 45px;
+}
